@@ -1,2 +1,5 @@
 # Bingo
-A bingo game
+
+A bingo game:
+
+TODO: Multiple cartoons per player.
